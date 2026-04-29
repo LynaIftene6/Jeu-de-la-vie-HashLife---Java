@@ -29,8 +29,8 @@ Implémentation du Jeu de la vie de Conway avec optimisation via l’algorithme 
 ```bash
 git clone ...
 cd ...
-javac Main.java
-java Main
+javac -d build src/algorithms/*.java src/core/*.java src/rules/*.java src/ui/*.java 
+java -cp build ui.Main
 ```
 
 ---
