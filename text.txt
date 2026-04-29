@@ -1,9 +1,0 @@
-Commande pour compiler : 
-
-javac -d build src/algorithms/*.java src/core/*.java src/rules/*.java src/ui/*.java 
-
-
-Commande pour executé le Main : 
-
-java -cp build ui.Main
-
