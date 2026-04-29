@@ -37,7 +37,7 @@ java -cp build ui.Main
 
 ## Aperçu
 
-(ajoute des captures d’écran ici)
+<img width="938" height="731" alt="Main" src="https://github.com/user-attachments/assets/6a2972f6-ca6e-44a2-aaa7-b741ab1391d5" />
 
 ---
 
