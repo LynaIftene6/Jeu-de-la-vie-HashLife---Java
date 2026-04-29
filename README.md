@@ -1,4 +1,3 @@
-<img width="938" height="731" alt="modeiteratif" src="https://github.com/user-attachments/assets/0a26872c-5da3-49ac-a977-280ee45c1c6b" />
 # Jeu-de-la-vie-HashLife---Java
 
 ## Description
@@ -39,7 +38,7 @@ java -cp build ui.Main
 ## Aperçu
 
 <img width="938" height="731" alt="Main" src="https://github.com/user-attachments/assets/6a2972f6-ca6e-44a2-aaa7-b741ab1391d5" />
-
+<img width="938" height="731" alt="modeiteratif" src="https://github.com/user-attachments/assets/0a26872c-5da3-49ac-a977-280ee45c1c6b" />
 ---
 
 ## Ce que j’ai appris
