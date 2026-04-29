@@ -39,6 +39,9 @@ java -cp build ui.Main
 
 <img width="938" height="731" alt="Main" src="https://github.com/user-attachments/assets/6a2972f6-ca6e-44a2-aaa7-b741ab1391d5" />
 <img width="938" height="731" alt="modeiteratif" src="https://github.com/user-attachments/assets/0a26872c-5da3-49ac-a977-280ee45c1c6b" />
+<img width="371" height="150" alt="Mode" src="https://github.com/user-attachments/assets/e30bc43f-c1e7-4d30-a369-010624f88869" />
+<img width="475" height="304" alt="BenchmarkRandom" src="https://github.com/user-attachments/assets/869fd90e-9d12-4ceb-a7b0-b74ec24bec9e" />
+
 ---
 
 ## Ce que j’ai appris
