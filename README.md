@@ -3,7 +3,7 @@
 ## Description
 
 Implémentation du Jeu de la vie de Conway avec optimisation via l’algorithme HashLife, permettant d’accélérer considérablement les simulations.
-
+Réaliser en groupe en L2 informatique à l'université de Caen Normandie.
 ---
 
 ## Fonctionnalités
