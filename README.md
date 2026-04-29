@@ -1,5 +1,4 @@
 # Jeu-de-la-vie-HashLife---Java
-# 🧬 Jeu de la vie – HashLife (Java)
 
 ## Description
 
