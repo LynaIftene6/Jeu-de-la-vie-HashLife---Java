@@ -41,7 +41,7 @@ java -cp build ui.Main
 
 ---
 
-## 💡 Ce que j’ai appris
+## Ce que j’ai appris
 
 * Optimisation algorithmique
 * Gestion de threads
